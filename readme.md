@@ -1,7 +1,7 @@
 Simple Python Implementation of Apriori Algorithm
 
 Live Demo in streamlit  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]()
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://drithh-apriori-algorithm-streamlit-4lki4l.streamlit.app/)
 
 This is a simple implementation of Apriori algorithm in Python. The algorithm is implemented in a way that it can be used for any dataset. The dataset used in this implementation is the one provided in kaggle. The dataset can be found here. [https://www.kaggle.com/irfanasrullah/groceries](https://www.kaggle.com/irfanasrullah/groceries)
 
